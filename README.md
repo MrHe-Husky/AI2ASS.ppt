@@ -3,4 +3,3 @@
 
 AI2ASS代码来自于：
 https://github.com/TypesettingTools/AI2ASS
-![image](https://user-images.githubusercontent.com/55549940/120878167-2db9bb80-c5ed-11eb-90c0-4bfc9610d850.png)
